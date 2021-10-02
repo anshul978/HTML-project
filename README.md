@@ -1,7 +1,7 @@
 
-# HTML-Project from Ground Zero Level
+# HTML-Project from Ground To Zero Level
 
-Hey there, welcome to our HTML open source project. Redesign the HTML landing page and have fun doing it. Happy coding :)
+Hey there, welcome to our HTML open source project Redesign the HTML landing page and have fun doing it. Happy coding :)
 
 # Contribution Guide
 
